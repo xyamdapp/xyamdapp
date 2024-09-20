@@ -1,12 +1,11 @@
 ## Hi there, I'm daffa!👋
 
-<!--
-**xyamdapp/xyamdapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile GitHub
 
-Here are some ideas to get you started:
-- ## What I'm currently working on
-- # 🔭 I’m currently working on CentOS
-- # 🌱 I’m currently learning Cloud Development
+## what I'm working on
+
+# 🔭 I’m currently working on CentOS
+# 🌱 I’m currently learning Cloud Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
